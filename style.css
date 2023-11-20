@@ -1,0 +1,35 @@
+/* all pages */
+* {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: lightgreen;
+    font-size: 20px;
+}
+
+.site-title {
+    font-size: 50px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.recipe-title,
+.site-title {
+    text-align: center;
+    background-color: #ee9090;
+}
+
+.recipe-title {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.subtitle {
+    font-size: 30px;
+    font-weight: bold;
+    padding-left: 60px;
+}
+
+/* index */
+
+.recipe-link{
+    font-weight:bold
+}
